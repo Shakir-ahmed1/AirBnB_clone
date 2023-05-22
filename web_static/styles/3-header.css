@@ -3,7 +3,6 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: solid #CCCCCC 1px;
-    position: absolute;
     top: 0;
     display: flex;
     align-items: center;
