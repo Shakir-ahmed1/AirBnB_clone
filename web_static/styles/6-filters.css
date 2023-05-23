@@ -56,7 +56,7 @@
 .popover{
     position: absolute;
     top: 54px;
-	/* display: none; */
+	display: none;
 	background-color: #FAFAFA;
     width: 100%;
 	border: 1px solid #DDDDDD;
