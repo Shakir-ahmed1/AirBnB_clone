@@ -60,6 +60,7 @@
 	border-radius: 4px;
     padding-top: 10px;
     padding-bottom: 10px;
+    z-index: 1;
 }
 
 .popover h2{
