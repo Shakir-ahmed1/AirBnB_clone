@@ -7,7 +7,7 @@ header {
     display: flex;
     align-items: center;
 }
-header span {
+header span, .logo {
     background-image: url("../images/logo.png");
     background-repeat: no-repeat;
     background-position: center;
